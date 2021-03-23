@@ -1,10 +1,11 @@
 fileFormatVersion: 2
-guid: 158c0e5afe9997e449c694e0cc8b42bb
+guid: 93784ae9355a2b748a235c3590fa891b
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - towerPrefab: {fileID: 3219458064393657486, guid: 8a965e088bae16643aab3d07ccfd5e2e, type: 3}
+  - tower: {instanceID: 0}
+  - target: {fileID: 6423750022156332045, guid: 6a5bdb365f9c3da4eaed0f96640900e2, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
