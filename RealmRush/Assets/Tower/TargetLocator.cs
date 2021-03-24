@@ -21,6 +21,6 @@ public class TargetLocator : MonoBehaviour
     void AimWeapon()
     {
         // Weapon look at target;
-        weapon.LookAt(target.transform.position);
+        weapon.LookAt(target);
     }
 }
