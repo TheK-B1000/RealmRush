@@ -63,5 +63,9 @@ PrefabInstance:
       propertyPath: IsPlaceable
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6784220318025366990, guid: 5023a402723f17946a3b28bbf99bf0ff, type: 3}
+      propertyPath: isPlaceable
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5023a402723f17946a3b28bbf99bf0ff, type: 3}
