@@ -246,6 +246,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyPrefab: {fileID: 6423750022156332045, guid: 6a5bdb365f9c3da4eaed0f96640900e2, type: 3}
+  poolSize: 5
   spawnTimer: 1
 --- !u!4 &261802788
 Transform:
